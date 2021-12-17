@@ -1,3 +1,5 @@
+Download and extract [Fruits fresh and rotten for classification project dataset](https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification).
+
 Install miniconda :
 
 ```wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh```
