@@ -18,7 +18,7 @@ Download and extract [Fruits fresh and rotten for classification project dataset
 
 ```conda install ipython jupyter```
 
-```conda install -c conda-forge numpy opencv matplotlib```
+```conda install -c conda-forge numpy opencv matplotlib scikit-learn```
 
 (check [this](https://exerror.com/solving-environment-failed-with-initial-frozen-solve-retrying-with-flexible-solve/) if `Solving environment: failed with initial frozen solve. Retrying with flexible solve` throws)
 
