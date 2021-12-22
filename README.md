@@ -8,13 +8,13 @@ Download and extract [Fruits fresh and rotten for classification project dataset
 
 ```bash ~/miniconda.sh -b -p $HOME/miniconda```
 
-```conda create -n iasr```
-
-```conda activate iasr```
-
 ```conda init``` or ```conda init zsh``` (for zsh shell)
 
 ### Install the dependencies :
+
+```conda create -n iasr```
+
+```conda activate iasr```
 
 ```conda install ipython jupyter```
 
