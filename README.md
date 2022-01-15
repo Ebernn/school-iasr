@@ -37,3 +37,5 @@ Download and extract [Fruits fresh and rotten for classification project dataset
 ```conda activate iasr```
 
 ```jupyter notebook```
+
+Open `Main.ipynb`
